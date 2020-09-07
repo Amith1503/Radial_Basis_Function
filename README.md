@@ -1,9 +1,8 @@
 # Radial_Basis_Function
 
 Write a Python Code that creates an RBF Network to approximate the mapping defined by:
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
 
+![Screenshot](screenshot.png)
 
 As a training set, use 441 randomly sampled data points defined as
 x = xi,xj
